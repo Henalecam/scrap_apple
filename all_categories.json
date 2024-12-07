@@ -1,0 +1,357 @@
+[
+  {
+    "category": "phones",
+    "items": [
+      {
+        "name": "iPhone 12 128gb",
+        "price": "3.440",
+        "link": "https://www.trackerstore.com.br/MLB-4055731836-iphone-12-128gb-_JM?searchVariation=179986510099#polycard_client=search-nordic-mshops&searchVariation=179986510099&position=1&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 128gb",
+        "price": "5.670",
+        "link": "https://www.trackerstore.com.br/MLB-3867884743-iphone-16-128gb-_JM?searchVariation=181832688708#polycard_client=search-nordic-mshops&searchVariation=181832688708&position=2&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 Pro 128gb",
+        "price": "7.899",
+        "link": "https://www.trackerstore.com.br/MLB-3867531007-iphone-16-pro-128gb-_JM?searchVariation=181831313364#polycard_client=search-nordic-mshops&searchVariation=181831313364&position=3&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 15 128gb",
+        "price": "4.610",
+        "link": "https://www.trackerstore.com.br/MLB-3497438915-iphone-15-128gb-_JM?searchVariation=180474941669#polycard_client=search-nordic-mshops&searchVariation=180474941669&position=4&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 13 128gb",
+        "price": "3.960",
+        "link": "https://www.trackerstore.com.br/MLB-3933058580-iphone-13-128gb-_JM?searchVariation=178565440958#polycard_client=search-nordic-mshops&searchVariation=178565440958&position=5&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 Pro Max 256gb",
+        "price": "9.420",
+        "link": "https://www.trackerstore.com.br/MLB-3852805627-iphone-16-pro-max-256gb-_JM?searchVariation=181687567554#polycard_client=search-nordic-mshops&searchVariation=181687567554&position=6&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 15 Pro Max 256gb",
+        "price": "9.040",
+        "link": "https://www.trackerstore.com.br/MLB-3489196821-iphone-15-pro-max-256gb-_JM?searchVariation=180379460185#polycard_client=search-nordic-mshops&searchVariation=180379460185&position=7&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 14 128gb",
+        "price": "4.199",
+        "link": "https://www.trackerstore.com.br/MLB-4055682902-iphone-14-128gb-_JM?searchVariation=178802015626#polycard_client=search-nordic-mshops&searchVariation=178802015626&position=8&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 Pro 256gb",
+        "price": "8.060",
+        "link": "https://www.trackerstore.com.br/MLB-5097155150-iphone-16-pro-256gb-_JM?searchVariation=181826224250#polycard_client=search-nordic-mshops&searchVariation=181826224250&position=9&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 12 128gb",
+        "price": "3.799",
+        "link": "https://www.trackerstore.com.br/MLB-3861630953-iphone-12-128gb-_JM?searchVariation=185122404861#polycard_client=search-nordic-mshops&searchVariation=185122404861&position=10&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 15 128gb",
+        "price": "5.080",
+        "link": "https://www.trackerstore.com.br/MLB-4169547316-iphone-15-128gb-_JM?searchVariation=179115822370#polycard_client=search-nordic-mshops&searchVariation=179115822370&position=11&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 128gb",
+        "price": "6.250",
+        "link": "https://www.trackerstore.com.br/MLB-3860486031-iphone-16-128gb-_JM?searchVariation=185100320867#polycard_client=search-nordic-mshops&searchVariation=185100320867&position=12&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 13 128gb",
+        "price": "3.590",
+        "link": "https://www.trackerstore.com.br/MLB-4055707764-iphone-13-128gb-_JM?searchVariation=179986562069#polycard_client=search-nordic-mshops&searchVariation=179986562069&position=13&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 15 Pro Max 256gb",
+        "price": "8.199",
+        "link": "https://www.trackerstore.com.br/MLB-3489187545-iphone-15-pro-max-256gb-_JM?searchVariation=179055108084#polycard_client=search-nordic-mshops&searchVariation=179055108084&position=14&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 Pro 128gb",
+        "price": "7.150",
+        "link": "https://www.trackerstore.com.br/MLB-3867884043-iphone-16-pro-128gb-_JM?searchVariation=181832687348#polycard_client=search-nordic-mshops&searchVariation=181832687348&position=15&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 16 Pro Max 256gb",
+        "price": "8.200",
+        "link": "https://www.trackerstore.com.br/MLB-3864974775-iphone-16-pro-max-256gb-_JM?searchVariation=185198108257#polycard_client=search-nordic-mshops&searchVariation=185198108257&position=16&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      },
+      {
+        "name": "iPhone 14 128gb",
+        "price": "4.699",
+        "link": "https://www.trackerstore.com.br/MLB-3570958435-iphone-14-128gb-_JM?searchVariation=179710968910#polycard_client=search-nordic-mshops&searchVariation=179710968910&position=17&search_layout=stack&type=item&tracking_id=bbfdcc7a-51e9-4237-aab7-cb5a559cc15e"
+      }
+    ]
+  },
+  {
+    "category": "info1",
+    "items": [
+      {
+        "name": "Apple Pencil Pro Branco",
+        "price": "1.029",
+        "link": "https://www.trackerstore.com.br/apple-pencil-pro-branco/p/MLB37903258?pdp_filters=seller_id%3A63305544#polycard_client=search-nordic-mshops&position=1&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d&wid=MLB3906358155&sid=search"
+      },
+      {
+        "name": "Macbook Pro 14 2024 M4 Pro 12/16gpu 24gb Ram 512ssd",
+        "price": "16.500",
+        "link": "https://www.trackerstore.com.br/MLB-3926924557-macbook-pro-14-2024-m4-pro-1216gpu-24gb-ram-512ssd-_JM?searchVariation=186322291601#polycard_client=search-nordic-mshops&searchVariation=186322291601&position=2&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 11 M4 512gb Wi-fi",
+        "price": "8.339",
+        "link": "https://www.trackerstore.com.br/MLB-3920937949-ipad-pro-11-m4-512gb-wi-fi-_JM?searchVariation=186224840633#polycard_client=search-nordic-mshops&searchVariation=186224840633&position=3&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 15 2024 M3 8/10gpu 16gb Ram 512ssd",
+        "price": "12.300",
+        "link": "https://www.trackerstore.com.br/MLB-3780946083-macbook-air-15-2024-m3-810gpu-16gb-ram-512ssd-_JM?searchVariation=183719243873#polycard_client=search-nordic-mshops&searchVariation=183719243873&position=4&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Apple Pencil Usb-c",
+        "price": "699",
+        "link": "https://www.trackerstore.com.br/MLB-3645857071-apple-pencil-usb-c-_JM#polycard_client=search-nordic-mshops&position=5&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Mac Mini 2024 M4 Pro 14/20gpu 24gb Ram 512ssd",
+        "price": "14.299",
+        "link": "https://www.trackerstore.com.br/MLB-5153000202-mac-mini-2024-m4-pro-1420gpu-24gb-ram-512ssd-_JM?searchVariation=185850911827#polycard_client=search-nordic-mshops&searchVariation=185850911827&position=6&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 11 2024 M2 128gb Wi-fi",
+        "price": "5.165",
+        "link": "https://www.trackerstore.com.br/MLB-4700581414-ipad-air-11-2024-m2-128gb-wi-fi-_JM?searchVariation=182846942509#polycard_client=search-nordic-mshops&searchVariation=182846942509&position=7&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Teclado Magic Keyboard P/ iPad Pro 11 M4 2024",
+        "price": "2.700",
+        "link": "https://www.trackerstore.com.br/MLB-3698506169-teclado-magic-keyboard-p-ipad-pro-11-m4-2024-_JM?searchVariation=180534914576#polycard_client=search-nordic-mshops&searchVariation=180534914576&position=8&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 15 2024 M3 8/10gpu 16gb Ram 512ssd",
+        "price": "11.500",
+        "link": "https://www.trackerstore.com.br/MLB-3848423131-macbook-air-15-2024-m3-810gpu-16gb-ram-512ssd-_JM?searchVariation=184839360001#polycard_client=search-nordic-mshops&searchVariation=184839360001&position=9&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 11 2024 M4 256gb Wi-fi",
+        "price": "8.049",
+        "link": "https://www.trackerstore.com.br/MLB-4700028372-ipad-pro-11-2024-m4-256gb-wi-fi-_JM?searchVariation=180534825868#polycard_client=search-nordic-mshops&searchVariation=180534825868&position=10&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Apple Pencil Pro 2024",
+        "price": "959",
+        "link": "https://www.trackerstore.com.br/MLB-3698564987-apple-pencil-pro-2024-_JM#polycard_client=search-nordic-mshops&position=11&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 14 2024 M4 10/10gpu 16gb Ram 512ssd",
+        "price": "14.199",
+        "link": "https://www.trackerstore.com.br/MLB-5166784184-macbook-pro-14-2024-m4-1010gpu-16gb-ram-512ssd-_JM?searchVariation=185977345869#polycard_client=search-nordic-mshops&searchVariation=185977345869&position=12&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Magic Mouse 2 Preto",
+        "price": "749",
+        "link": "https://www.trackerstore.com.br/MLB-4379159420-magic-mouse-2-preto-_JM?searchVariation=181499169903#polycard_client=search-nordic-mshops&searchVariation=181499169903&position=13&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad 2022 10º Geração 64gb",
+        "price": "2.900",
+        "link": "https://www.trackerstore.com.br/MLB-4429507136-ipad-2022-10-geraco-64gb-_JM?searchVariation=179809407858#polycard_client=search-nordic-mshops&searchVariation=179809407858&position=14&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 11 2024 M4 1tb Wi-fi",
+        "price": "13.370",
+        "link": "https://www.trackerstore.com.br/MLB-3711672413-ipad-pro-11-2024-m4-1tb-wi-fi-_JM?searchVariation=182938252857#polycard_client=search-nordic-mshops&searchVariation=182938252857&position=15&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Mac Mini 2023 M2 8/10gpu 16gb 256ssd",
+        "price": "8.400",
+        "link": "https://www.trackerstore.com.br/MLB-4626638488-mac-mini-2023-m2-810gpu-16gb-256ssd-_JM?searchVariation=180358510262#polycard_client=search-nordic-mshops&searchVariation=180358510262&position=16&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Apple AirPods 4 Com Cancelamento De Ruído",
+        "price": "1.510",
+        "link": "https://www.trackerstore.com.br/MLB-5137195598-apple-airpods-4-com-cancelamento-de-ruido-_JM?searchVariation=185680490061#polycard_client=search-nordic-mshops&searchVariation=185680490061&position=17&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 11 2024 M4 1tb Wi-fi C/ Vidro Nano-texture",
+        "price": "13.250",
+        "link": "https://www.trackerstore.com.br/MLB-4818759360-ipad-pro-11-2024-m4-1tb-wi-fi-c-vidro-nano-texture-_JM?searchVariation=183301551831#polycard_client=search-nordic-mshops&searchVariation=183301551831&position=18&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2022 M2 8/8gpu 16gb Ram 256ssd",
+        "price": "7.980",
+        "link": "https://www.trackerstore.com.br/MLB-3905644747-macbook-air-13-2022-m2-88gpu-16gb-ram-256ssd-_JM?searchVariation=182193884086#polycard_client=search-nordic-mshops&searchVariation=182193884086&position=19&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 14 2024 M4 Pro 12/16gpu 48gb 512ssd + Nano Text",
+        "price": "22.099",
+        "link": "https://www.trackerstore.com.br/MLB-3919406995-macbook-pro-14-2024-m4-pro-1216gpu-48gb-512ssd-nano-text-_JM?searchVariation=186209003815#polycard_client=search-nordic-mshops&searchVariation=186209003815&position=20&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Teclado Magic Keyboard P/ iPad Pro 13 Pol M4 2024",
+        "price": "3.100",
+        "link": "https://www.trackerstore.com.br/MLB-3698509977-teclado-magic-keyboard-p-ipad-pro-13-pol-m4-2024-_JM?searchVariation=180534918472#polycard_client=search-nordic-mshops&searchVariation=180534918472&position=21&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Apple iPad (9ª Geração) 10.2 Wi-fi 64gb",
+        "price": "2.080",
+        "link": "https://www.trackerstore.com.br/MLB-2729729114-apple-ipad-9-geraco-102-wi-fi-64gb-_JM?searchVariation=174877720787#polycard_client=search-nordic-mshops&searchVariation=174877720787&position=22&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 16 2024 M4 Max 14/32gpu 36gb Ram 1tb Ssd",
+        "price": "29.950",
+        "link": "https://www.trackerstore.com.br/MLB-3902640913-macbook-pro-16-2024-m4-max-1432gpu-36gb-ram-1tb-ssd-_JM?searchVariation=185977501007#polycard_client=search-nordic-mshops&searchVariation=185977501007&position=23&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2024 M3 8/10gpu 8gb 512ssd",
+        "price": "9.879",
+        "link": "https://www.trackerstore.com.br/MLB-3700721715-macbook-air-13-2024-m3-810gpu-8gb-512ssd-_JM?searchVariation=182858663297#polycard_client=search-nordic-mshops&searchVariation=182858663297&position=24&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 13 2024 M4 256gb Wi-fi",
+        "price": "10.419",
+        "link": "https://www.trackerstore.com.br/MLB-4699992586-ipad-pro-13-2024-m4-256gb-wi-fi-_JM?searchVariation=182846172169#polycard_client=search-nordic-mshops&searchVariation=182846172169&position=25&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 14 2024 M4 Pro 14/20gpu 48gb Ram 512ssd",
+        "price": "22.679",
+        "link": "https://www.trackerstore.com.br/MLB-3902645201-macbook-pro-14-2024-m4-pro-1420gpu-48gb-ram-512ssd-_JM?searchVariation=182156303354#polycard_client=search-nordic-mshops&searchVariation=182156303354&position=26&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2022 M2 8/8gpu 8gb 256ssd",
+        "price": "6.729",
+        "link": "https://www.trackerstore.com.br/MLB-3647403645-macbook-air-13-2022-m2-88gpu-8gb-256ssd-_JM?searchVariation=180238284404#polycard_client=search-nordic-mshops&searchVariation=180238284404&position=27&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 16 2024 M4 Pro 14/20gpu 24gb Ram 512ssd",
+        "price": "21.550",
+        "link": "https://www.trackerstore.com.br/MLB-3902624729-macbook-pro-16-2024-m4-pro-1420gpu-24gb-ram-512ssd-_JM?searchVariation=182156322074#polycard_client=search-nordic-mshops&searchVariation=182156322074&position=28&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 11 2024 M2 256gb Wi-fi",
+        "price": "6.099",
+        "link": "https://www.trackerstore.com.br/MLB-3698841519-ipad-air-11-2024-m2-256gb-wi-fi-_JM?searchVariation=180535262848#polycard_client=search-nordic-mshops&searchVariation=180535262848&position=29&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Pro 14 2024 M4 Pro 12/16gpu 24gb Ram 512ssd",
+        "price": "17.899",
+        "link": "https://www.trackerstore.com.br/MLB-5166869986-macbook-pro-14-2024-m4-pro-1216gpu-24gb-ram-512ssd-_JM?searchVariation=185977410137#polycard_client=search-nordic-mshops&searchVariation=185977410137&position=30&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 15 2024 M3 8/10gpu 8gb 256ssd",
+        "price": "9.500",
+        "link": "https://www.trackerstore.com.br/MLB-3639711249-macbook-air-15-2024-m3-810gpu-8gb-256ssd-_JM?searchVariation=182269504913#polycard_client=search-nordic-mshops&searchVariation=182269504913&position=31&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2020 M1 8gb 256ssd",
+        "price": "5.639",
+        "link": "https://www.trackerstore.com.br/MLB-2745690415-macbook-air-13-2020-m1-8gb-256ssd-_JM?searchVariation=175018160284#polycard_client=search-nordic-mshops&searchVariation=175018160284&position=32&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 13 Pol 2024 M2 128gb Wi-fi",
+        "price": "6.350",
+        "link": "https://www.trackerstore.com.br/MLB-3698793121-ipad-air-13-pol-2024-m2-128gb-wi-fi-_JM?searchVariation=180535276496#polycard_client=search-nordic-mshops&searchVariation=180535276496&position=33&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Teclado Magic Keyboard P/ iPad Pro 11",
+        "price": "2.099",
+        "link": "https://www.trackerstore.com.br/MLB-3585790483-teclado-magic-keyboard-p-ipad-pro-11-_JM?searchVariation=179801235500#polycard_client=search-nordic-mshops&searchVariation=179801235500&position=34&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 11 2024 M2 128gb Wi-fi + 5g",
+        "price": "5.585",
+        "link": "https://www.trackerstore.com.br/MLB-4913938718-ipad-air-11-2024-m2-128gb-wi-fi-5g-_JM?searchVariation=183763943975#polycard_client=search-nordic-mshops&searchVariation=183763943975&position=35&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Teclado Magic Keyboard P/ iPad Pro 11 M4 2024",
+        "price": "2.347",
+        "link": "https://www.trackerstore.com.br/MLB-3698557317-teclado-magic-keyboard-p-ipad-pro-11-m4-2024-_JM?searchVariation=182846180063#polycard_client=search-nordic-mshops&searchVariation=182846180063&position=36&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Magic Keyboard iPad 12.9 6º 2022 (inglês) Preto",
+        "price": "1.750",
+        "link": "https://www.trackerstore.com.br/MLB-3670115192-magic-keyboard-ipad-129-6-2022-ingls-preto-_JM?searchVariation=177810877426#polycard_client=search-nordic-mshops&searchVariation=177810877426&position=37&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Teclado Magic Keyboard P/ iPad Pro 13 Pol M4 2024",
+        "price": "2.700",
+        "link": "https://www.trackerstore.com.br/MLB-3698560155-teclado-magic-keyboard-p-ipad-pro-13-pol-m4-2024-_JM?searchVariation=180534953160#polycard_client=search-nordic-mshops&searchVariation=180534953160&position=38&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2024 M3 8/8gpu 8gb 256ssd",
+        "price": "8.359",
+        "link": "https://www.trackerstore.com.br/MLB-4537478910-macbook-air-13-2024-m3-88gpu-8gb-256ssd-_JM?searchVariation=180107276078#polycard_client=search-nordic-mshops&searchVariation=180107276078&position=39&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Apple Magic Mouse 2",
+        "price": "649",
+        "link": "https://www.trackerstore.com.br/MLB-3483924315-apple-magic-mouse-2-_JM?searchVariation=179015498726#polycard_client=search-nordic-mshops&searchVariation=179015498726&position=40&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2024 M3 8/10gpu 8gb 512ssd",
+        "price": "8.959",
+        "link": "https://www.trackerstore.com.br/MLB-3700688955-macbook-air-13-2024-m3-810gpu-8gb-512ssd-_JM?searchVariation=182858606109#polycard_client=search-nordic-mshops&searchVariation=182858606109&position=41&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 13 2024 M4 256gb Wi-fi",
+        "price": "9.449",
+        "link": "https://www.trackerstore.com.br/MLB-4699979214-ipad-pro-13-2024-m4-256gb-wi-fi-_JM?searchVariation=182846034709#polycard_client=search-nordic-mshops&searchVariation=182846034709&position=42&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 13 Pol 2024 M2 128gb Wi-fi",
+        "price": "5.750",
+        "link": "https://www.trackerstore.com.br/MLB-3698817839-ipad-air-13-pol-2024-m2-128gb-wi-fi-_JM?searchVariation=182846969557#polycard_client=search-nordic-mshops&searchVariation=182846969557&position=43&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 11 2024 M2 256gb Wi-fi",
+        "price": "5.510",
+        "link": "https://www.trackerstore.com.br/MLB-3698789583-ipad-air-11-2024-m2-256gb-wi-fi-_JM?searchVariation=180535273400#polycard_client=search-nordic-mshops&searchVariation=180535273400&position=44&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 13 2020 M1 8/8gpu 8gb 256ssd",
+        "price": "5.019",
+        "link": "https://www.trackerstore.com.br/MLB-3344881175-macbook-air-13-2020-m1-88gpu-8gb-256ssd-_JM?searchVariation=177970337986#polycard_client=search-nordic-mshops&searchVariation=177970337986&position=45&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Pro 11 2024 M4 256gb Wi-fi",
+        "price": "7.299",
+        "link": "https://www.trackerstore.com.br/MLB-4700039502-ipad-pro-11-2024-m4-256gb-wi-fi-_JM?searchVariation=182846011829#polycard_client=search-nordic-mshops&searchVariation=182846011829&position=46&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "Macbook Air 2022 13 M2 8/8gpu 8gb 256ssd",
+        "price": "6.100",
+        "link": "https://www.trackerstore.com.br/MLB-3609804049-macbook-air-2022-13-m2-88gpu-8gb-256ssd-_JM?searchVariation=181886492531#polycard_client=search-nordic-mshops&searchVariation=181886492531&position=47&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      },
+      {
+        "name": "iPad Air 11 2024 M2 128gb Wi-fi",
+        "price": "4.699",
+        "link": "https://www.trackerstore.com.br/MLB-3698751669-ipad-air-11-2024-m2-128gb-wi-fi-_JM?searchVariation=180535282000#polycard_client=search-nordic-mshops&searchVariation=180535282000&position=48&search_layout=grid&type=item&tracking_id=67446f16-5ccf-4eff-98ed-78acda630c7d"
+      }
+    ]
+  },
+  {
+    "category": "info2",
+    "items": [
+      {
+        "name": "iPad 2022 10º Geração 64gb",
+        "price": "2.649",
+        "link": "https://www.trackerstore.com.br/MLB-4522310278-ipad-2022-10-geraco-64gb-_JM?searchVariation=180064492160#polycard_client=search-nordic-mshops&searchVariation=180064492160&position=1&search_layout=grid&type=item&tracking_id=591283f3-dac4-49d8-ac90-aff8df994652"
+      },
+      {
+        "name": "Macbook Air 13 2024 M3 8/8gpu 8gb 256ssd",
+        "price": "7.599",
+        "link": "https://www.trackerstore.com.br/MLB-3646086215-macbook-air-13-2024-m3-88gpu-8gb-256ssd-_JM?searchVariation=182352969827#polycard_client=search-nordic-mshops&searchVariation=182352969827&position=2&search_layout=grid&type=item&tracking_id=591283f3-dac4-49d8-ac90-aff8df994652"
+      },
+      {
+        "name": "Macbook Air 15 2024 M3 8/10gpu 8gb 256ssd",
+        "price": "8.600",
+        "link": "https://www.trackerstore.com.br/MLB-3639754279-macbook-air-15-2024-m3-810gpu-8gb-256ssd-_JM?searchVariation=182269781887#polycard_client=search-nordic-mshops&searchVariation=182269781887&position=3&search_layout=grid&type=item&tracking_id=591283f3-dac4-49d8-ac90-aff8df994652"
+      }
+    ]
+  }
+]
